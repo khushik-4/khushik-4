@@ -24,23 +24,6 @@ My primary goal is to build a career as a Software Development Engineer (SDE), d
 
 Alongside software development, I enjoy exploring Cybersecurity, Network Security, and Post-Quantum Cryptography, which allows me to approach systems with both functionality and security in mind.
 
----
-
-## Connect With Me
-
-💼 LinkedIn  
-www.linkedin.com/in/khushi-kumari-143449308/
-
-💻 LeetCode  
-leetcode.com/u/khushii34/
-
-📘 GeeksforGeeks  
-www.geeksforgeeks.org/profile/khushi14evqc
-
-📧 Email  
-khushi14662983@gmail.com
-
----
 
 <div align="center">
 
