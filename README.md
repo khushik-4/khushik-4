@@ -4,11 +4,11 @@
 
 ### Aspiring Software Development Engineer
 
-### 🎓 Information Technology @ NSUT '27
+###  Information Technology @ NSUT '27
 
-### 💻 Full Stack Development • DSA • System Design
+###  Full Stack Development • DSA • System Design
 
-### 🔐 Cybersecurity & Network Security Enthusiast
+###  Cybersecurity & Network Security Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Aspiring+Software+Development+Engineer;Full+Stack+Developer;DSA+%26+Problem+Solving;System+Design+Learner;Cybersecurity+Enthusiast;Building+QuantumVault" />
 
