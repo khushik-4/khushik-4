@@ -1,125 +1,166 @@
-# Khushi Kumari
+<div align="center">
 
-🎓 B.Tech in Information Technology (2023–2027) | Netaji Subhas University of Technology (NSUT)
+# Hi, I'm Khushi 
 
-🔐 Network Security & Cybersecurity Enthusiast
-💻 Full-Stack Developer
-🤖 AI Application Developer
-🔬 Exploring Post-Quantum Cryptography & Secure Systems
+### Software Development Engineer (SDE) Aspirant
 
----
+### 🎓 Information Technology @ NSUT '27
 
-## About Me
+### 💻 Full Stack Development • DSA • System Design
 
-I am an Information Technology undergraduate at NSUT with a strong interest in
-Cybersecurity, Network Security, Post-Quantum Cryptography, and Full-Stack
-Application Development.
+### 🔐 Cybersecurity & Network Security Enthusiast
 
-My work focuses on building secure, scalable, and user-centric applications
-while exploring emerging technologies in cryptography, artificial intelligence,
-and distributed systems.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Aspiring+Software+Development+Engineer;Full+Stack+Developer;DSA+%26+Problem+Solving;System+Design+Learner;Cybersecurity+Enthusiast;Building+QuantumVault" />
 
-I enjoy transforming theoretical concepts into practical solutions through
-research projects, open-source contributions, and real-world software
-development.
+</div>
 
 ---
 
-## Areas of Interest
+## 🚀 About Me
 
-- Network Security
-- Cybersecurity
+I am an Information Technology undergraduate at Netaji Subhas University of Technology (NSUT), graduating in 2027, with a strong interest in Software Engineering, Full Stack Development, and scalable system design.
+
+My primary goal is to build a career as a Software Development Engineer (SDE), developing impactful products that solve real-world problems through efficient algorithms, clean architecture, and modern engineering practices.
+
+Alongside software development, I enjoy exploring Cybersecurity, Network Security, and Post-Quantum Cryptography, which allows me to approach systems with both functionality and security in mind.
+
+---
+
+## 🎯 Current Focus
+
+- Data Structures & Algorithms
+- Software Development Engineering
+- Full Stack Development
+- System Design
+- Backend Engineering
+- Secure Software Development
 - Post-Quantum Cryptography
-- Secure File Sharing Systems
-- Full-Stack Development
-- Artificial Intelligence
-- Cloud Computing
-- Software Engineering
 
 ---
 
-## Technical Skills
+## 💻 Technical Skills
 
 ### Languages
+
 C++ • JavaScript • TypeScript • Python • SQL
 
 ### Frontend
+
 React.js • Next.js • HTML • CSS • Tailwind CSS
 
 ### Backend
+
 Node.js • Express.js • REST APIs
 
-### Database
+### Databases
+
 PostgreSQL • MongoDB • Prisma ORM
 
-### Security & Networking
+### Core CS
+
+Data Structures & Algorithms
+
+Object-Oriented Programming
+
+Operating Systems
+
+Computer Networks
+
+Database Management Systems
+
+Software Engineering
+
+System Design
+
+### Security
+
 Network Security
+
 Cryptography
+
 Post-Quantum Cryptography (ML-KEM)
-TCP/IP Fundamentals
-Secure Communication Protocols
 
-### Tools
-Git • GitHub • Postman • VS Code • CloudSim • Linux
+Authentication & Authorization
 
 ---
 
-## Featured Projects
+## 🌟 Featured Projects
 
-### QuantumVault
-A secure file-sharing platform implementing Post-Quantum Cryptography using
-ML-KEM (FIPS 203) to protect digital assets against future quantum attacks.
+### 🔐 QuantumVault
 
-### MindFlow
-AI-powered mental wellness platform featuring intelligent chatbot support,
-wellness insights, and personalized user experiences.
+A secure file-sharing platform implementing Post-Quantum Cryptography using ML-KEM (FIPS 203) to protect digital assets against future quantum attacks.
 
-### NeuroScale
-Image upscaling system developed using C++ and machine learning concepts.
+**Tech Stack:** React • TypeScript • Node.js • PostgreSQL • Prisma
 
 ---
 
-## Achievements
+### 🧠 MindFlow
 
-🏆 JEE Main – Top 3% among 1.2 Million+ Aspirants
+AI-powered mental wellness platform featuring intelligent chatbot support, personalized wellness insights, and community-driven engagement.
 
-🏆 Excellence in Education Award (2022)
-
-🏆 National Science Congress Participant
-
-🏆 Zonal-Level Mental Maths Competition Winner
+**Tech Stack:** Next.js • TypeScript • AI Integration
 
 ---
 
-## Leadership & Community
+### 🚀 NeuroScale
 
-• Executive Committee Member & Content Writer
-  Rotaract Club NSUT Regency
-
-• Technical Content Writer
-  Developers Community, NSUT
-
-• Volunteer
-  Girls in Tech Initiatives
+Machine learning-based image upscaling system developed using C++ and computer vision concepts.
 
 ---
 
-## Current Focus
+## 🏆 Achievements
 
-🔹 Data Structures & Algorithms
-
-🔹 System Design
-
-🔹 Network Security
-
-🔹 Post-Quantum Cryptography
-
-🔹 Building QuantumVault
+- JEE Main — Top 3% among 1.2 Million+ Aspirants
+- Excellence in Education Award (2022)
+- National Science Congress Participant
+- Zonal-Level Mental Maths Competition Winner
 
 ---
 
-## Connect With Me
+## 📈 Coding Journey
 
-LinkedIn: <your-link>
+- Solving Data Structures & Algorithms problems regularly
+- Preparing for Software Development Engineer roles
+- Learning scalable system design
+- Building production-grade full stack applications
+- Contributing to technical communities
 
-Email: <your-email>
+---
+
+## 🤝 Leadership & Community
+
+### Rotaract Club NSUT Regency
+
+Executive Committee Member & Content Writer
+
+### Developers Community NSUT
+
+Technical Content Writer
+
+### Girls in Tech Initiatives
+
+Volunteer
+
+---
+
+## 🌐 Connect With Me
+
+💼 LinkedIn  
+www.linkedin.com/in/khushi-kumari-143449308/
+
+💻 LeetCode  
+leetcode.com/u/khushii34/
+
+📘 GeeksforGeeks  
+www.geeksforgeeks.org/profile/khushi14evqc
+
+📧 Email  
+khushi14662983@gmail.com
+
+---
+
+<div align="center">
+
+### Building software that is scalable, secure, and impactful 🚀
+
+</div>
