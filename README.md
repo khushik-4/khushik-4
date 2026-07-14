@@ -2,7 +2,7 @@
 
 # Hi, I'm Khushi 
 
-### Software Development Engineer (SDE) Aspirant
+### Aspiring Software Development Engineer
 
 ### 🎓 Information Technology @ NSUT '27
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am an Information Technology undergraduate at Netaji Subhas University of Technology (NSUT), graduating in 2027, with a strong interest in Software Engineering, Full Stack Development, and scalable system design.
 
@@ -26,124 +26,7 @@ Alongside software development, I enjoy exploring Cybersecurity, Network Securit
 
 ---
 
-## 🎯 Current Focus
-
-- Data Structures & Algorithms
-- Software Development Engineering
-- Full Stack Development
-- System Design
-- Backend Engineering
-- Secure Software Development
-- Post-Quantum Cryptography
-
----
-
-## 💻 Technical Skills
-
-### Languages
-
-C++ • JavaScript • TypeScript • Python • SQL
-
-### Frontend
-
-React.js • Next.js • HTML • CSS • Tailwind CSS
-
-### Backend
-
-Node.js • Express.js • REST APIs
-
-### Databases
-
-PostgreSQL • MongoDB • Prisma ORM
-
-### Core CS
-
-Data Structures & Algorithms
-
-Object-Oriented Programming
-
-Operating Systems
-
-Computer Networks
-
-Database Management Systems
-
-Software Engineering
-
-System Design
-
-### Security
-
-Network Security
-
-Cryptography
-
-Post-Quantum Cryptography (ML-KEM)
-
-Authentication & Authorization
-
----
-
-## 🌟 Featured Projects
-
-### 🔐 QuantumVault
-
-A secure file-sharing platform implementing Post-Quantum Cryptography using ML-KEM (FIPS 203) to protect digital assets against future quantum attacks.
-
-**Tech Stack:** React • TypeScript • Node.js • PostgreSQL • Prisma
-
----
-
-### 🧠 MindFlow
-
-AI-powered mental wellness platform featuring intelligent chatbot support, personalized wellness insights, and community-driven engagement.
-
-**Tech Stack:** Next.js • TypeScript • AI Integration
-
----
-
-### 🚀 NeuroScale
-
-Machine learning-based image upscaling system developed using C++ and computer vision concepts.
-
----
-
-## 🏆 Achievements
-
-- JEE Main — Top 3% among 1.2 Million+ Aspirants
-- Excellence in Education Award (2022)
-- National Science Congress Participant
-- Zonal-Level Mental Maths Competition Winner
-
----
-
-## 📈 Coding Journey
-
-- Solving Data Structures & Algorithms problems regularly
-- Preparing for Software Development Engineer roles
-- Learning scalable system design
-- Building production-grade full stack applications
-- Contributing to technical communities
-
----
-
-## 🤝 Leadership & Community
-
-### Rotaract Club NSUT Regency
-
-Executive Committee Member & Content Writer
-
-### Developers Community NSUT
-
-Technical Content Writer
-
-### Girls in Tech Initiatives
-
-Volunteer
-
----
-
-## 🌐 Connect With Me
+## Connect With Me
 
 💼 LinkedIn  
 www.linkedin.com/in/khushi-kumari-143449308/
