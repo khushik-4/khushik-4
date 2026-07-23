@@ -6,7 +6,7 @@
 
 ### Software Engineering • Full-Stack Development • Security
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Building+Secure+Applications;Full-Stack+Development;Post-Quantum+Cryptography;Data+Structures+%26+Algorithms;Always+Curious,+Always+Learning" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Building+Secure+Applications;Full-Stack+Development;Quantum+Cryptography;Data+Structures+%26+Algorithms;Always+Curious,+Always+Learning" />
 
 <br>
 
@@ -75,26 +75,3 @@ I'm currently focused on building impactful projects, strengthening my problem-s
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=khushik-4&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushik-4&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## Let's Connect
-
-- Portfolio: https://khusheee-portfolio.vercel.app/
-- LinkedIn: https://www.linkedin.com/in/khushi-kumari-143449308/
-- GitHub: https://github.com/khushik-4
-- LeetCode: https://leetcode.com/u/khushii34/
-
-<div align="center">
-
-### Building software that's secure, scalable, and designed to solve real problems.
-
-</div>
